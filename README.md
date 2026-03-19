@@ -1,16 +1,8 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║        Olá, mundo! Eu sou um Engenheiro de Software          ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+# Diego Claudino
 
-# 👾 Engenheiro de Software em Formação
-
-**`Desenvolvedor Backend · Java & Spring Boot · Construindo APIs que funcionam de verdade`**
+**`Engenheiro de Software em Formação · Java & Spring Boot · APIs RESTful`**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Java+%2B+Spring+Boot+%E2%9C%94;APIs+RESTful+%E2%9C%94;Clean+Code+%E2%9C%94;Sempre+aprendendo...+%E2%9C%94" alt="Typing SVG" />
 
@@ -27,15 +19,18 @@ Meu foco está no desenvolvimento backend — criando sistemas robustos, escalá
 Acredito que bom código é código legível, e por isso levo **Clean Code** a sério.
 
 ```java
-public class SobreMim {
+@RestController
+@RequestMapping("/dev")
+public class DiegoClaudino {
 
-    private final String foco       = "Desenvolvimento Backend";
-    private final String stack      = "Java · Spring Boot · SQL";
-    private final String principio  = "Clean Code em primeiro lugar";
-    private final String status     = "Sempre em evolução 🚀";
+    @GetMapping("/stack")
+    public String stack() {
+        return "Java · Spring Boot · SQL";
+    }
 
-    public String getObjetivo() {
-        return "Construir software que resolve problemas reais";
+    @GetMapping("/objetivo")
+    public String objetivo() {
+        return "Construir software que resolve problemas reais 🚀";
     }
 }
 ```
@@ -44,47 +39,29 @@ public class SobreMim {
 
 ## 🛠️ Stack & Tecnologias
 
-### Back-end
+**Back-end**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### Banco de Dados
+**Banco de Dados**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Testes
+**Testes**
+
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78CFF5?style=for-the-badge&logoColor=white)
 
-### Ferramentas & Boas Práticas
+**Ferramentas**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-### Metodologias
-![Agile](https://img.shields.io/badge/Agile-0099CC?style=for-the-badge&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean_Code-brightgreen?style=for-the-badge&logoColor=white)
-
----
-
-## 🎯 O que eu faço
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  🔗 APIs RESTful        → Endpoints claros e eficientes │
-│  🗃️ Persistência        → JPA / Hibernate / SQL         │
-│  🧪 Testes              → Integração & unitários        │
-│  📐 Arquitetura         → Camadas bem definidas         │
-│  📖 Clean Code          → Legibilidade acima de tudo    │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
 
 ---
 
