@@ -14,9 +14,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Claudino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
-[![GitHub](https://img.shields.io/badge/GitHub-Soleer1x-181717?style=for-the-badge&logo=github&logoColor=white)]
-[![Email](https://img.shields.io/badge/Email-claudinodiego98@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-claudino-609276357)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soleer1x)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudinodiego98@gmail.com)
 
 </div>
 
