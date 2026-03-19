@@ -18,23 +18,6 @@ Meu foco está no desenvolvimento backend — criando sistemas robustos, escalá
 
 Acredito que bom código é código legível, e por isso levo **Clean Code** a sério.
 
-```java
-@RestController
-@RequestMapping("/dev")
-public class DiegoClaudino {
-
-    @GetMapping("/stack")
-    public String stack() {
-        return "Java · Spring Boot · SQL";
-    }
-
-    @GetMapping("/objetivo")
-    public String objetivo() {
-        return "Construir software que resolve problemas reais 🚀";
-    }
-}
-```
-
 ---
 
 ## 🛠️ Stack & Tecnologias
@@ -94,8 +77,6 @@ public class DiegoClaudino {
 ---
 
 <div align="center">
-
-*"Primeiro faça funcionar, depois faça certo, depois faça rápido."* — Kent Beck
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Soleer1x.Soleer1x)
 
