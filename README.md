@@ -119,11 +119,11 @@ public class Diego extends SoftwareEngineer {
 ## 📈 Jornada de Aprendizado
 
 ```
-2023 ──────────────────────────────────────────────────────────► Hoje
-  │                                                                 │
-  ▼                                                                 ▼
-Curso Técnico          Spring Boot +       Testes +          Arquitetura
-ADS · Java Básico  →   REST APIs      →    Clean Code   →    & Boas Práticas
+2023 ───────────────────────────────────────────────────────────────────────────────🠖2026
+  │                                         │                        │                 │
+  ▼                                         ▼                        ▼                 ▼
+Curso Técnico          (Constante estudo) Spring Boot +       Testes +          Aplicação em Spring Boot
+ADS · Java Básico  →   (Constante estudo) REST APIs      →    Clean Code   →    & Boas Práticas
 ```
 
 ---
