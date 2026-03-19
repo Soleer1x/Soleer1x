@@ -55,18 +55,14 @@ public class Diego extends SoftwareEngineer {
 ### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-003545?style=for-the-badge&logo=h2&logoColor=white)
 
 ### 🧪 Testes & Qualidade
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-FF6600?style=for-the-badge&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🔧 Ferramentas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </div>
@@ -81,10 +77,7 @@ public class Diego extends SoftwareEngineer {
 |:---|:---|
 | **APIs RESTful** | Design e implementação de APIs escaláveis com Spring Boot |
 | **Persistência de Dados** | JPA/Hibernate com foco em eficiência e boas práticas |
-| **Testes de Integração** | Cobertura robusta com JUnit5 + Mockito |
 | **Clean Code** | Código legível, manutenível e orientado a boas práticas |
-| **Metodologias Ágeis** | Familiarizado com Scrum e Kanban |
-
 </div>
 
 ---
