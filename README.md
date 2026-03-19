@@ -1,146 +1,163 @@
+<!-- HEADER -->
 <div align="center">
 
-<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#0d1f3c"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1f6feb;stop-opacity:0"/>
-      <stop offset="30%" style="stop-color:#58a6ff;stop-opacity:1"/>
-      <stop offset="70%" style="stop-color:#3fb950;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#3fb950;stop-opacity:0"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="glow2">
-      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <pattern id="dots" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#58a6ff"/>
-    </pattern>
-  </defs>
-  <rect width="900" height="280" fill="url(#bg)"/>
-  <rect width="900" height="280" fill="url(#dots)" opacity="0.07"/>
-  <circle cx="150" cy="80" r="120" fill="#1f6feb" opacity="0.06" filter="url(#glow2)"/>
-  <circle cx="780" cy="200" r="100" fill="#3fb950" opacity="0.05" filter="url(#glow2)"/>
-  <rect x="0" y="0" width="900" height="2" fill="url(#line)"/>
-  <rect x="40" y="38" width="180" height="26" rx="13" fill="#1f6feb" opacity="0.15"/>
-  <rect x="40" y="38" width="180" height="26" rx="13" fill="none" stroke="#1f6feb" stroke-width="0.5" opacity="0.5"/>
-  <circle cx="58" cy="51" r="4" fill="#3fb950" filter="url(#glow)">
-    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="70" y="56" font-family="monospace" font-size="11" fill="#58a6ff" font-weight="600" letter-spacing="1">BACKEND DEV</text>
-  <text x="40" y="130" font-family="monospace" font-size="62" fill="#e6edf3" font-weight="700" letter-spacing="-2">Diego</text>
-  <text x="40" y="196" font-family="monospace" font-size="62" fill="#58a6ff" font-weight="700" letter-spacing="-2" filter="url(#glow)">Claudino</text>
-  <text x="42" y="234" font-family="monospace" font-size="14" fill="#8b949e" letter-spacing="1">Java · Spring Boot · SQL · Clean Code · APIs RESTful</text>
-  <g opacity="0.2" font-family="monospace" font-size="13">
-    <text x="580" y="80" fill="#3fb950">@RestController</text>
-    <text x="580" y="100" fill="#8b949e">public class <tspan fill="#ffa657">DiegoClaudino</tspan> {</text>
-    <text x="600" y="124" fill="#3fb950">@GetMapping</text>
-    <text x="700" y="124" fill="#8b949e">("/stack")</text>
-    <text x="600" y="148" fill="#8b949e">return <tspan fill="#a5d6ff">"Java · Spring"</tspan>;</text>
-    <text x="580" y="172" fill="#8b949e">}</text>
-  </g>
-  <rect x="0" y="278" width="900" height="2" fill="url(#line)"/>
-</svg>
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║         SOFTWARE ENGINEER & BACKEND DEVELOPER           ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<br/>
+# `< Desenvolvedor de Software />`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-claudino-609276357/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudinodiego98@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soleer1x)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Soleer1x.Soleer1x)
+**Java · Spring Boot · SQL · REST APIs**
+
+*Engenharia de Software em formação — Base técnica sólida, código limpo, resultados reais.*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Java+%2B+Spring+Boot+Developer;RESTful+API+Builder;Clean+Code+Practitioner;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
+---
 
-## 👤 whoami
-
-Desenvolvedor em formação em **Engenharia de Software** pela Univille, com base técnica sólida no técnico em **ADS** pelo Sesi Senai.
-
-Foco em **backend** — APIs RESTful robustas, persistência eficiente e testes de integração com **Java + Spring Boot**. Comprometido com **Clean Code** como princípio, não como detalhe.
+## 🧬 `whoami`
 
 ```java
-@RestController
-@RequestMapping("/dev")
-public class DiegoClaudino {
+public class Developer {
 
-    @GetMapping("/stack")
-    public String stack() { return "Java · Spring Boot · SQL"; }
+    private final String name        = "Seu Nome Aqui";
+    private final String role        = "Software Engineer";
+    private final String formation   = "Engenharia de Software";
+    private final String technicalBg = "Análise e Desenvolvimento de Sistemas";
 
-    @GetMapping("/objetivo")
-    public String objetivo() { return "Construir software que resolve problemas reais 🚀"; }
+    private final String[] focus = {
+        "APIs RESTful robustas",
+        "Persistência de dados eficiente",
+        "Testes de Integração",
+        "Clean Code & Boas Práticas"
+    };
 
-    @GetMapping("/status")
-    public String status() { return "Never stop shipping."; }
+    private final String[] methodologies = { "Scrum", "Kanban", "Agile" };
+
+    public String currentStatus() {
+        return "Building, learning and shipping every day.";
+    }
 }
 ```
 
-<br/>
+---
 
-## 🛠 stack
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-**Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-**Banco de Dados**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-
-    </td>
-    <td valign="top" width="50%">
-
-**Testes**
-![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78CFF5?style=flat-square&logoColor=white)
-
-**Ferramentas**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 📊 stats
+## ⚙️ Stack Técnica
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Soleer1x&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e"/>
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soleer1x&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Testes
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-FF6B6B?style=for-the-badge&logo=java&logoColor=white)
+
 </div>
 
-<br/>
+---
 
-## 🎓 formação
+## 🏗️ O que eu construo
 
-| Curso | Instituição | Status |
-|---|---|---|
-| Engenharia de Software | Univille | 🔵 Em andamento |
-| Técnico em ADS | Sesi Senai | 🟢 Concluído |
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   ▶  APIs RESTful        — Endpoints bem definidos,     │
+│                            versionados e documentados   │
+│                                                         │
+│   ▶  Persistência SQL    — JPA/Hibernate, queries       │
+│                            otimizadas, modelagem sólida │
+│                                                         │
+│   ▶  Testes              — Integração e unitários com   │
+│                            JUnit5 + Mockito             │
+│                                                         │
+│   ▶  Arquitetura         — MVC, camadas bem separadas,  │
+│                            princípios SOLID             │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-<br/>
+---
+
+## 📐 Princípios que guiam meu código
+
+> *"Código limpo faz uma coisa e faz bem."* — Robert C. Martin
+
+| Princípio | Aplicação |
+|-----------|-----------|
+| **SOLID** | Estruturação de classes e responsabilidades |
+| **DRY** | Eliminação de duplicidade em toda a base de código |
+| **Clean Code** | Nomenclatura clara, funções coesas, sem magic numbers |
+| **REST** | Recursos, verbos HTTP corretos, status codes semânticos |
+| **Agile** | Entregas iterativas, feedback contínuo, adaptação rápida |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)
+
+</div>
+
+---
+
+## 🗺️ Roadmap Pessoal
+
+```
+2024 ──────────────────────────────────────────── 2025+
+
+ ✅ Java Core          ✅ Spring Boot        🔄 Docker / K8s
+ ✅ SQL / JPA          ✅ REST APIs          🔄 CI/CD Pipelines
+ ✅ Clean Code         🔄 Spring Security    ⏳ Microsserviços
+ ✅ Git / GitHub       🔄 Testes avançados   ⏳ AWS / Cloud
+```
+
+---
+
+## 🤝 Vamos conectar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
+
+</div>
 
 ---
 
 <div align="center">
-  <sub><i>"Primeiro faça funcionar, depois faça certo, depois faça rápido." — Kent Beck</i></sub>
+
+```
+/* Aberto a oportunidades, colaborações e novos desafios. */
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00D4FF&style=flat-square&label=visitors)
+
 </div>
