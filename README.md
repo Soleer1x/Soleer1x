@@ -123,7 +123,7 @@ public class Diego extends SoftwareEngineer {
   │                                         │                        │                       │
   ▼                                         ▼                        ▼                       ▼
 Curso Técnico          (Constante estudo) Spring Boot +       Testes +          Aplicação em Spring Boot
-ADS · Java Básico  →   (Constante estudo) REST APIs      →    Clean Code   →    & Boas Práticas
+ADS  →   (Constante estudo) REST APIs      →    Clean Code   →    & Boas Práticas
 ```
 
 ---
