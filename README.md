@@ -1,16 +1,130 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Soleer1x/Soleer1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║        Olá, mundo! Eu sou um Engenheiro de Software          ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-Here are some ideas to get you started:
+# 👾 Engenheiro de Software em Formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**`Desenvolvedor Backend · Java & Spring Boot · Construindo APIs que funcionam de verdade`**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Java+%2B+Spring+Boot+%E2%9C%94;APIs+RESTful+%E2%9C%94;Clean+Code+%E2%9C%94;Sempre+aprendendo...+%E2%9C%94" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+Desenvolvedor de Software em formação em **Engenharia de Software**, com base técnica sólida construída ao longo de um curso técnico em **Análise e Desenvolvimento de Sistemas**.
+
+Meu foco está no desenvolvimento backend — criando sistemas robustos, escaláveis e bem estruturados. Tenho experiência prática com **Java + Spring Boot**, construção de **APIs RESTful**, **persistência de dados eficiente** e **testes de integração**.
+
+Acredito que bom código é código legível, e por isso levo **Clean Code** a sério.
+
+```java
+public class SobreMim {
+
+    private final String foco       = "Desenvolvimento Backend";
+    private final String stack      = "Java · Spring Boot · SQL";
+    private final String principio  = "Clean Code em primeiro lugar";
+    private final String status     = "Sempre em evolução 🚀";
+
+    public String getObjetivo() {
+        return "Construir software que resolve problemas reais";
+    }
+}
+```
+
+---
+
+## 🛠️ Stack & Tecnologias
+
+### Back-end
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Testes
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78CFF5?style=for-the-badge&logoColor=white)
+
+### Ferramentas & Boas Práticas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### Metodologias
+![Agile](https://img.shields.io/badge/Agile-0099CC?style=for-the-badge&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-brightgreen?style=for-the-badge&logoColor=white)
+
+---
+
+## 🎯 O que eu faço
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  🔗 APIs RESTful        → Endpoints claros e eficientes │
+│  🗃️ Persistência        → JPA / Hibernate / SQL         │
+│  🧪 Testes              → Integração & unitários        │
+│  📐 Arquitetura         → Camadas bem definidas         │
+│  📖 Clean Code          → Legibilidade acima de tudo    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soleer1x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soleer1x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 📚 Formação
+
+| 🎓 Curso | 🏫 Instituição | 📅 Status |
+|----------|---------------|-----------|
+| Engenharia de Software | Univille | Em andamento |
+| Técnico em Análise e Desenvolvimento de Sistemas | Sesi Senai | Concluído |
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-claudino-609276357/](https://www.linkedin.com/in/diego-claudino-609276357/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudinodiego98@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soleer1x)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Primeiro faça funcionar, depois faça certo, depois faça rápido."* — Kent Beck
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Soleer1x.Soleer1x)
+
+</div>
