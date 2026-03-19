@@ -75,9 +75,3 @@ Acredito que bom código é código legível, e por isso levo **Clean Code** a s
 </div>
 
 ---
-
-<div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Soleer1x.Soleer1x)
-
-</div>
